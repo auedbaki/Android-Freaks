@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style name="MyTheme" parent="Base.MyTheme">
+
+  </style>
+  <style name="MyTheme2" parent="Base.MyTheme2">
+
+  </style>
+  <style name="Base.MyTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    
+    <item name="colorPrimary">#212121</item>
+    <!--<item name="drawerArrowStyle">@style/MyDrawerArrowStyle</item>-->
+  </style>
+  <style name="Base.MyTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <item name="colorPrimary">#212121</item>
+    <!--<item name="drawerArrowStyle">@style/MyDrawerArrowStyle</item>-->
+  </style>
+  
+  <!--<style name="MyDrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+    <item name="color">#F5F5F5</item>
+    <item name="spinBars">true</item>
+  </style>
+
+  <style name="MyCardViewStyle" parent="Theme.AppCompat.Light">
+    <item name="cardCornerRadius">4dp</item>
+    <item name="cardElevation">2dp</item>
+    <item name="contentPaddingBottom">2dp</item>
+    <item name="contentPaddingTop">2dp</item>
+    <item name="contentPaddingLeft">16dp</item>
+    <item name="contentPaddingRight">16dp</item>
+    <item name="cardBackgroundColor">#424242</item>
+   
+  </style>
+  <style name="MyCardViewStylecontent" parent="Theme.AppCompat.Light">
+    <item name="cardCornerRadius">4dp</item>
+    <item name="cardElevation">2dp</item>
+    <item name="contentPaddingBottom">2dp</item>
+    <item name="contentPaddingTop">2dp</item>
+    <item name="contentPaddingLeft">2dp</item>
+    <item name="contentPaddingRight">2dp</item>
+    <item name="cardBackgroundColor">#1f1414</item>
+
+  </style>
+  <style name="ONlineCard" parent="Theme.AppCompat.Light">
+    <item name="cardElevation">0dp</item>
+    <item name="cardBackgroundColor">#fff</item>
+
+  </style>-->
+  </resources> 
